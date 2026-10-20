@@ -24,7 +24,7 @@ const catalogoFlores = [
         precio: 450,
         categoria: "amor",
         etiqueta: "Más vendido",
-        imagen: "https://images.unsplash.com/photo-1548094990-c16ca90f1f0d?auto=format&fit=crop&w=600&q=80",
+        imagen: "https://images.unsplash.com/photo-1562690868-60bbe7293e94?auto=format&fit=crop&w=600&q=80",
         flores: ["12 Rosas rojas de invernadero", "Nube blanca (Gypsophila)", "Follaje de eucalipto", "Envoltura coreana impermeable"],
         descripcion: "El clásico infalible para expresar amor profundo. Doce rosas rojas seleccionadas a mano, acompañadas de nube fresca y papel coreano con moño de listón satinado."
     },
@@ -282,7 +282,7 @@ const catalogoFlores = [
         precio: 650,
         categoria: "condolencias",
         etiqueta: "",
-        imagen: "https://images.unsplash.com/photo-1508615039623-a25605d2b022?auto=format&fit=crop&w=600&q=80",
+        imagen: "https://images.unsplash.com/photo-1562690868-60bbe7293e94?auto=format&fit=crop&w=600&q=80",
         flores: ["12 Rosas blancas", "Lirios Casablanca", "Gladiolas blancas", "Base blanca con espuma floral"],
         descripcion: "Arreglo vertical sobrio y elegante para enviar a capilla o domicilio familiar."
     },
@@ -302,7 +302,7 @@ const catalogoFlores = [
         precio: 420,
         categoria: "condolencias",
         etiqueta: "",
-        imagen: "https://images.unsplash.com/photo-1508615039623-a25605d2b022?auto=format&fit=crop&w=600&q=80",
+        imagen: "https://images.unsplash.com/photo-1562690868-60bbe7293e94?auto=format&fit=crop&w=600&q=80",
         flores: ["10 Rosas blancas", "4 Lirios blancos", "Eucalipto", "Envoltura blanca con listón"],
         descripcion: "Ramo de mano discreto y respetuoso para llevar personalmente a servicios funerarios o misas."
     },
@@ -322,7 +322,7 @@ const catalogoFlores = [
         precio: 580,
         categoria: "condolencias",
         etiqueta: "",
-        imagen: "https://images.unsplash.com/photo-1508615039623-a25605d2b022?auto=format&fit=crop&w=600&q=80",
+        imagen: "https://images.unsplash.com/photo-1562690868-60bbe7293e94?auto=format&fit=crop&w=600&q=80",
         flores: ["Rosas blancas", "Lisianthus blanco", "Astromelias", "Florero de cerámica o vidrio"],
         descripcion: "Pensado para enviar a casa de la familia como muestra de cariño, apoyo y solidaridad."
     }
