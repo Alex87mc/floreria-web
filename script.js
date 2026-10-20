@@ -24,7 +24,7 @@ const catalogoFlores = [
         precio: 450,
         categoria: "amor",
         etiqueta: "Más vendido",
-        imagen: "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=600&q=80",
+        imagen: "https://images.unsplash.com/photo-1548094990-c16ca90f1f0d?auto=format&fit=crop&w=600&q=80",
         flores: ["12 Rosas rojas de invernadero", "Nube blanca (Gypsophila)", "Follaje de eucalipto", "Envoltura coreana impermeable"],
         descripcion: "El clásico infalible para expresar amor profundo. Doce rosas rojas seleccionadas a mano, acompañadas de nube fresca y papel coreano con moño de listón satinado."
     },
@@ -106,7 +106,7 @@ const catalogoFlores = [
         precio: 650,
         categoria: "cumpleanos",
         etiqueta: "Con Globo",
-        imagen: "https://images.unsplash.com/photo-1508615039623-a25605d2b022?auto=format&fit=crop&w=600&q=80",
+        imagen: "https://images.unsplash.com/photo-1526047932273-341f2a7631f9?auto=format&fit=crop&w=600&q=80",
         flores: ["12 Rosas combinadas", "3 Lirios Stargazer", "Globo metálico de Feliz Cumpleaños", "Base de madera"],
         descripcion: "Arreglo completo listo para festejar. Incluye globo metálico de cumpleaños y flores aromáticas en base decorativa."
     },
