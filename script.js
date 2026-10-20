@@ -2,13 +2,10 @@
    1. CONFIGURACIÓN GENERAL DE LA FLORERÍA (MODIFICA TUS DATOS AQUÍ)
    ========================================================================== */
 const CONFIG = {
-    // Pon el número con código de país sin el signo + (Ejemplo México: 521 + 10 dígitos)
-    telefonoWhatsApp: "5219631356022",
+    telefonoWhatsApp: "5219622044858",
     
-    // Número como quieres que se vea en la página y para llamadas
-    telefonoLlamada: "963 135 6022",
+    telefonoLlamada: "962 204 4858",
     
-    // Pega aquí el enlace que te da Google Maps al darle "Compartir -> Copiar vínculo"
     enlaceGoogleMaps: "https://maps.app.goo.gl/XR7DKrFeaVXrYUSa9",
     
     // Dirección escrita que aparece en la página
